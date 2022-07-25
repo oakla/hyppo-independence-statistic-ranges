@@ -1,0 +1,4 @@
+test_rslts_statistic,test_rslts_pvalue,statistic_rslts,independence_excepted_list,dataset_1_info_list,dataset_2_info_list
+1,2,3,True,"('uniform', {'low': 0, 'high': 1000, 'size': (2, 10)}, 1)"
+1,2,3,True,"{'method': 'uniform', 'parameters': {'low': 0, 'high': 1000, 'size': (2, 10)}, 'seed': 1}"
+1,2,3,True,"{'method': 'uniform', 'parameters': {'low': 0, 'high': 1000, 'size': (2, 10)}, 'seed': 1}"
